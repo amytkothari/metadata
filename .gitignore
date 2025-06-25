@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and API keys
+.env
+.env.*
+
+# Logs and temp files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+meta/
+meta/Lib/

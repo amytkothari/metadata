@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+gradio
+python-dotenv
+PyPDF2
+python-docx
+sentence-transformers
+pytesseract
+opencv-python
+Pillow
+pydantic
