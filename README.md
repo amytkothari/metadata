@@ -24,7 +24,7 @@ metadata_generator/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/metadata_generator.git
+   git clone https://github.com/amytkothari/metadata.git
    cd metadata_generator
    ```
 
